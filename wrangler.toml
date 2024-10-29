@@ -1,3 +1,4 @@
 name = "ma-project"
 main = "src/index.ts"
 compatibility_date = "2023-04-18"
+CONNECTION_STRING=''
