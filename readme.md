@@ -61,13 +61,6 @@ util/
 │   ├── Final Result.json
 ├── postman/
 │   ├── products-backendassessment.postman_collection.json
-├── db.ts
-├── error.ts
-├── logger.ts
-├── metrics.ts
-├── middleware.ts
-├── services.ts
-├── types.ts
 
 ```
 
