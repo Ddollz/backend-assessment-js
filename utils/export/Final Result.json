@@ -1,0 +1,14 @@
+[
+  { "id": 96, "title": "The Compare at Price Snowboard Medium - med-2", "tags": "Accessory, Sport, Winter", "created_at": "2024-07-29 00:14:32+00", "updated_at": "2024-07-29 00:15:18+00", "sku": "med-2" },
+  { "id": 97, "title": "The Compare at Price Snowboard Large - lar-2", "tags": "Accessory, Sport, Winter", "created_at": "2024-07-29 00:14:32+00", "updated_at": "2024-07-29 00:15:08+00", "sku": "lar-2" },
+  { "id": 98, "title": "The Complete Snowboard Ice - comp-1", "tags": "Premium, Snow, Snowboard, Sport, Winter", "created_at": "2024-06-28 09:31:00+00", "updated_at": "2024-06-28 09:31:00+00", "sku": "comp-1" },
+  { "id": 99, "title": "The Complete Snowboard Dawn - comp-2", "tags": "Premium, Snow, Snowboard, Sport, Winter", "created_at": "2024-06-28 09:31:00+00", "updated_at": "2024-06-28 09:31:00+00", "sku": "comp-2" },
+  { "id": 100, "title": "The Complete Snowboard Powder - comp-3", "tags": "Premium, Snow, Snowboard, Sport, Winter", "created_at": "2024-06-28 09:31:00+00", "updated_at": "2024-06-28 09:31:00+00", "sku": "comp-3" },
+  { "id": 101, "title": "The Complete Snowboard Electric - comp-4", "tags": "Premium, Snow, Snowboard, Sport, Winter", "created_at": "2024-06-28 09:31:00+00", "updated_at": "2024-06-28 09:31:00+00", "sku": "comp-4" },
+  { "id": 102, "title": "The Complete Snowboard Sunset - comp-5", "tags": "Premium, Snow, Snowboard, Sport, Winter", "created_at": "2024-06-28 09:31:00+00", "updated_at": "2024-06-28 09:31:00+00", "sku": "comp-5" },
+  { "id": 103, "title": "The Draft Snowboard Default Title - draft-1", "tags": "", "created_at": "2024-06-28 09:31:01+00", "updated_at": "2024-06-28 09:31:01+00", "sku": "draft-1" },
+  { "id": 104, "title": "The Hidden Snowboard Default Title - hide-2", "tags": "Premium, Snow, Snowboard, Sport, Winter", "created_at": "2024-06-28 09:31:00+00", "updated_at": "2024-06-28 09:31:00+00", "sku": "hide-2" },
+  { "id": 105, "title": "The Inventory Not Tracked Snowboard Default Title - sku-untracked-1", "tags": "Accessory, Sport, Winter", "created_at": "2024-06-28 09:31:01+00", "updated_at": "2024-06-28 09:31:01+00", "sku": "sku-untracked-1" },
+  { "id": 106, "title": "The Out of Stock Snowboard Default Title - oos-1", "tags": "Accessory, Sport, Winter", "created_at": "2024-06-28 09:31:01+00", "updated_at": "2024-06-28 09:31:01+00", "sku": "oos-1" },
+  { "id": 107, "title": "Roller Blade - med-1", "tags": "Roller", "created_at": "2024-10-29 03:38:32.469789+00", "updated_at": "2024-10-29 03:38:32.469789+00", "sku": "med-1" }
+]

@@ -3,4 +3,4 @@ main = "src/index.ts"
 compatibility_date = "2023-04-18"
 
 [vars]
-CONNECTION_STRING='postgresql://backend-assessment_owner:V4JeovqGz3cx@ep-still-sound-a8jrxlfk.eastus2.azure.neon.tech/backend-assessment?sslmode=require'
+CON_STRING='postgresql://backend-assessment_owner:V4JeovqGz3cx@ep-still-sound-a8jrxlfk.eastus2.azure.neon.tech/backend-assessment?sslmode=require'
