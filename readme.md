@@ -32,7 +32,7 @@ CON_STRING=postgres://username:password@neon.db/database_name
 
 ### Getting Started
 
-### 1. **`export.sql Optional`**
+### 1. **`product.sql Optional`**
 
 - **Location**: `/utils/export`
 - **Description**: This SQL file contains the full database schema and initial data inserts. It is intended for setting up the database for the project.
